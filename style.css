@@ -1,0 +1,31 @@
+.page{
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: fixed;
+}
+#page2{
+  display: none;
+}
+#page3{
+  display: none;
+}
+#page1{
+  display: block;
+}
+body{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+  height: 40px;
+  width: 80%;
+  max-width: 300px;
+}
+button{
+  height: 40px;
+  width: 160px;
+  background-color: rgb(7, 7, 87);
+  color: white;
+}
